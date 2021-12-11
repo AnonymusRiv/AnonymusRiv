@@ -2,7 +2,7 @@
 
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZbjQzNhFmGwxxHTHQVfTLQSvFfTlvrzzFFKKjsKhLHvQCrsKScQQJDhVGGdVrFlDKRHSB)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rivero-talavera-062645222/)
 
 I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
 
