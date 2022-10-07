@@ -19,6 +19,8 @@ I've been colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwareli
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![MySQL](https://img.shields.io/badge/MySQL-E38C00?style=for-the-badge&logo=mysql&logoColor=white)]()
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+  [![Shell](https://img.shields.io/badge/Shell_Script-6aaa3f?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
 - OS & IDE & Tools : <br />
   [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
